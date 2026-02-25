@@ -1,3 +1,4 @@
 hello git
 dev 修改了同一行
 这是在 GitHub 上修改的
+master
